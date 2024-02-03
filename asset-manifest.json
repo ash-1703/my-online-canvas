@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-online-canvas/static/css/main.d798b0e2.css",
+    "main.js": "/my-online-canvas/static/js/main.e80b367d.js",
+    "static/media/portfolio-img2.jpg": "/my-online-canvas/static/media/portfolio-img2.d7a16a2ca1a832257a58.jpg",
+    "static/media/about.png": "/my-online-canvas/static/media/about.9616d974f9e16fcfac4c.png",
+    "static/media/portfolio-img6.jpg": "/my-online-canvas/static/media/portfolio-img6.45a8a206e512c9866da6.jpg",
+    "static/media/portfolio-img1.jpg": "/my-online-canvas/static/media/portfolio-img1.753f0ec988a3fcfbdf37.jpg",
+    "static/media/portfolio-img3.jpg": "/my-online-canvas/static/media/portfolio-img3.9b1dc86a93e1518614ce.jpg",
+    "static/media/site-bg.jpg": "/my-online-canvas/static/media/site-bg.7a83701bde34f43de87c.jpg",
+    "static/media/portfolio-img5.jpg": "/my-online-canvas/static/media/portfolio-img5.6957f140474c19104d9c.jpg",
+    "static/media/ash.png": "/my-online-canvas/static/media/ash.b436d0f1fefbc762f5c0.png",
+    "static/media/portfolio-img4.jpg": "/my-online-canvas/static/media/portfolio-img4.ea9e158cf492cf1403b7.jpg",
+    "index.html": "/my-online-canvas/index.html",
+    "main.d798b0e2.css.map": "/my-online-canvas/static/css/main.d798b0e2.css.map",
+    "main.e80b367d.js.map": "/my-online-canvas/static/js/main.e80b367d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d798b0e2.css",
+    "static/js/main.e80b367d.js"
+  ]
+}
